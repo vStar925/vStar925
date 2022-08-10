@@ -4,7 +4,7 @@
 
 A WIP texture pack for PCSX2 and Dolphin that aims to upscale/redraw every texture asset in the game.
 
-[![MKDHD Banner.png](https://github.com/vStar925/MKDeception-Texture-Pack-Kollection/blob/main/MKDHD%20Banner.png?raw=true)](https://github.com/vStar925/MKDeception-Texture-Pack-Kollection) 
+[![MKDHD Banner.png](https://github.com/vStar925/MKDeception-Texture-Pack-Kollection/blob/main/MKDHDBanner.png?raw=true)](https://github.com/vStar925/MKDeception-Texture-Pack-Kollection) 
 
 ## Red Dead Redemption 2
 
