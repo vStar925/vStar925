@@ -1,6 +1,6 @@
 # Welcome to my GitHub page. Here I showcase the variety of different projects and games I've created content and mods for.
 
-##  Mortal Kombat Deception: Texture Pack Kollection
+##  Mortal Kombat Deception Remastered
 
 A WIP texture pack for PCSX2 and Dolphin that aims to upscale/redraw every texture asset in the game.
 
