@@ -17,3 +17,4 @@
 ---
 
 * [Saints Row 1](https://github.com/vStar925/Saints-Row-1-Modding/wiki)
+* [Red Dead Redemption](https://github.com/vStar925/RedDeadRedemption)
