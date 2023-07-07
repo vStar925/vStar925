@@ -4,6 +4,8 @@
 ### Mods
 ---
 
+* [Red Dead Redemption: Keyboard & Mouse Overhaul](https://github.com/vStar925/RDR1-Keyboard-Mouse)
+
 * [Mortal Kombat Deception: Remastered Texture Pack](https://github.com/vStar925/MKDeception-Texture-Pack-Kollection)
 
 * [Button Prompt + Fonts Replacement Archive](https://github.com/vStar925/MKDeception-Texture-Pack-Kollection)
